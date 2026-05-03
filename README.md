@@ -69,15 +69,17 @@ python-banking-app/
 
 ## Version History
 
-### v1.1 (Current)
+### Version 1.0
+Original source code from the following YouTube tutorial:
+
+- **Video:** [Let's code a beginners Python BANKING PROGRAM](https://youtu.be/8aW3tkIul-8?si=zApwNuGAv5bD4pfz)
+- **Channel:** [Bro Code](https://www.youtube.com/@BroCodez)
+
+### Version 1.1 (Current)
 - Restructured into a multi-file architecture
 - Added exit confirmation prompt
 - Improved input validation and error handling
 - Separated into Constants, Main Menu & User Prompts modules
-
-### v1.0
-- Basic single-file console banking application
-- Core features: Balance, Deposit, Withdraw, Exit
 
 ---
 
