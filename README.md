@@ -37,14 +37,10 @@ A beginner-to-intermediate level Python project built to practice core programmi
 ```
 python-banking-app/
 │
-├── Version 1.0/
-│   └── BankingApp.py
-│
-├── Version 1.1/
-│   ├── BankingApp.py
-│   ├── Constants.py
-│   ├── Main_Menu.py
-│   └── User_Prompts.py
+├── BankingApp.py
+├── Constants.py
+├── Main_Menu.py
+└── User_Prompts.py
 ```
 
 ---
@@ -56,11 +52,7 @@ python-banking-app/
    ```
    git clone https://github.com/chathuranga-k/python-banking-app.git
    ```
-3. Navigate to the version folder:
-   ```
-   cd Version 1.1
-   ```
-4. Run the application:
+3. Run the application:
    ```
    python BankingApp.py
    ```
@@ -69,13 +61,13 @@ python-banking-app/
 
 ## Version History
 
-### Version 1.0
+### Source Code
 Original source code from the following YouTube tutorial:
 
 - **Video:** [Let's code a beginners Python BANKING PROGRAM](https://youtu.be/8aW3tkIul-8?si=zApwNuGAv5bD4pfz)
 - **Channel:** [Bro Code](https://www.youtube.com/@BroCodez)
 
-### Version 1.1 (Current)
+### Project Structure (Current)
 - Restructured into a multi-file architecture
 - Added exit confirmation prompt
 - Improved input validation and error handling
@@ -85,7 +77,7 @@ Original source code from the following YouTube tutorial:
 
 ## Planned Features
 
-- [ ] GUI version using Tkinter *(Version 2.0)*
+- [ ] GUI version using Tkinter
 - [ ] User account system with login
 - [ ] Transaction history
 - [ ] Data persistence using file storage or database
